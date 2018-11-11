@@ -1,11 +1,14 @@
-# github.com/luismiguelss/resources
-This is a repository of resources that anyone can use for their projects.
+# Material-Colored icons and images
+This repository includes images and icons for you to use and avoid wasting time creating them.
 
-## What does it contain?
-This contains some resources i've made myself such as images, icons, etc. That any person could need to use while developing their projects, no matter where.
+## But which formats do can I find here?
+Most of them will be in PNG format, but this will be periodically be updated with SVGs, to make them look good with no more effort.
 
-## Aim
-The aim of this repository is to provide code and images (or other resources) for people, **without copyright**, so as they can use them on their projects.
+## How does this work?
+Well, you'll be able to find each icon depending on the size you want it. Eventually each icon would be in almost all used sizes. Just use their URL in this repository or download them!
+
+### NOTE-:
+I'll do my best to make a website so you can check which one you like/prefer to make it even easier! - TODO
 
 ## Code of conduct
 See the code of conduct uploaded to this repository for more.
