@@ -1,7 +1,7 @@
 # Material-Colored icons and images
 This repository includes images and icons for you to use and avoid wasting time creating them.
 
-## But which formats do can I find here?
+## But which formats can I find here?
 Most of them will be in PNG format, but this will be periodically be updated with SVGs, to make them look good with no more effort.
 
 ## How does this work?
