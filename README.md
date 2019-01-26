@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/LuisMiguelss/resources"><img src="https://raw.githubusercontent.com/LuisMiguelSS/resources/master/site/resources.png" alt="Resources" width="200"></a>
+  <a href="https://github.com/LuisMiguelss/resources"><img src="https://raw.githubusercontent.com/LuisMiguelSS/resources/master/site/resources.png" alt="Resources" width="420"></a>
   <br>
   Material-Colored based icons and images
   <br>
