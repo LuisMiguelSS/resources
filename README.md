@@ -21,3 +21,5 @@ Well, you'll be able to find each icon depending on the size you want it. Eventu
 
 ## Licensing for this repository
 **Licensed with Apache 2.0** [See more](https://github.com/LuisMiguelSS/resources/blob/master/LICENSE)
+
+With :heart: by @LuisMiguelSS
