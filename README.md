@@ -5,6 +5,7 @@
   Material-Colored based icons and images
   <br>
 </h1>
+&nbsp;
 ![License](https://img.shields.io/badge/LICENSE-MIT-blue.svg)
 This repository includes images and icons for you to use and avoid wasting time creating them.
 
