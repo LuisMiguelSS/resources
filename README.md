@@ -1,4 +1,4 @@
-
+<!--Heading-->
 <h1 align="center">
   <br>
   <a href="https://github.com/LuisMiguelss/resources"><img src="https://raw.githubusercontent.com/LuisMiguelSS/resources/master/site/resources.png" alt="Resources" width="420"></a>
@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-//Badges
+<!--Badges-->
 <h2 align="center">
 
 ![repo size](https://img.shields.io/github/repo-size/LuisMiguelSS/resources.svg?colorB=brightgreen)
