@@ -10,9 +10,13 @@
 <!--Badges-->
 <h2 align="center">
 
-![repo size](https://img.shields.io/github/repo-size/LuisMiguelSS/resources.svg?colorB=red)
-![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
-![license](https://img.shields.io/badge/license-MIT-blue.svg)
+  ![repo size](https://img.shields.io/github/repo-size/LuisMiguelSS/resources.svg?colorB=red)
+  ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+  ![license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+  <br>
+
+  ![formats](https://img.shields.io/badge/formats-PNG%2C%20SVG-ff68b4.svg)
 
 </h2>
 This repository includes images and icons for you to use and avoid wasting time creating them.
