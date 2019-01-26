@@ -14,7 +14,3 @@ Well, you'll be able to find each icon depending on the size you want it. Eventu
 
 ## Code of conduct
 See the code of conduct uploaded to this repository for more.
-
-
-
-~ With :heart: by @LuisMiguelSS
