@@ -7,8 +7,8 @@
 </h1>
 
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)]
+![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+![license](https://img.shields.io/badge/license-MIT-blue.svg)
 This repository includes images and icons for you to use and avoid wasting time creating them.
 
 ## But which formats can I find here?
