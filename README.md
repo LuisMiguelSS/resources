@@ -5,7 +5,7 @@
   Material-Colored based icons and images
   <br>
 </h1>
-[License](https://img.shields.io/github/license/LuisMiguelSS/resources.svg?colorB=blue)
+[![License](https://img.shields.io/github/license/LuisMiguelSS/resources.svg?colorB=blue)]
 This repository includes images and icons for you to use and avoid wasting time creating them.
 
 ## But which formats can I find here?
