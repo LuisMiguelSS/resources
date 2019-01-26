@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Material-Colored icons and images</h1>
+<h1 align="center">Material-Colored icons and images</h1>
 This repository includes images and icons for you to use and avoid wasting time creating them.
 
 ## But which formats can I find here?
