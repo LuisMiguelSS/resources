@@ -10,7 +10,7 @@
 //Badges
 <h2 align="center">
 
-[https://img.shields.io/github/repo-size/LuisMiguelSS/resources.svg?colorB=brightgreen]
+![(https://img.shields.io/github/repo-size/LuisMiguelSS/resources.svg?colorB=brightgreen)]
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
