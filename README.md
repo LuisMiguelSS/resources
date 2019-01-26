@@ -26,7 +26,7 @@ Well, you'll be able to find each icon depending on the size you want it. Eventu
 ## Contributors
 @LuisMiguelSS
 
-##Special Thanks
+# Special Thanks
 For the logo [launchaco.com](https://www.launchaco.com/)
 
 ## Licensing for this repository
