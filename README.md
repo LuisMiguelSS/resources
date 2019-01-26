@@ -5,7 +5,7 @@
   Material-Colored based icons and images
   <br>
 </h1>
-[![License](https://img.shields.io/github/license/LuisMiguelSS/resources.svg?colorB=blue)]
+[![JavaScript Style Guide: Good Parts](https://img.shields.io/badge/code%20style-goodparts-brightgreen.svg?style=flat)](https://github.com/dwyl/goodparts "JavaScript The Good Parts")
 This repository includes images and icons for you to use and avoid wasting time creating them.
 
 ## But which formats can I find here?
