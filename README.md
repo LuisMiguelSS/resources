@@ -6,7 +6,7 @@
   <br>
 </h1>
 &nbsp;
-![License](https://img.shields.io/badge/LICENSE-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 This repository includes images and icons for you to use and avoid wasting time creating them.
 
 ## But which formats can I find here?
